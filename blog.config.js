@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Oleg`s Blog',
   author: 'Oleg',
   email: 'xjvnet@gmail.com',
-  link: 'https://www.notion.so/42860af944fc4deda3d5279e0a8041f3?v=3393924109ef4efe91b9608057956de0',
+  link: 'https://www.oynao.com/',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
